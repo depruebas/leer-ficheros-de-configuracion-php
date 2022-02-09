@@ -36,5 +36,5 @@ If need read a element into array
   
 ```
 
-Thanks for readme
+Thanks for readme<br>
 Alex.
